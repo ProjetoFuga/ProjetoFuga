@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-fuga-386622",
+  "private_key_id": "f2345a1d355c1b72e077d66651eff204d177a20a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7Nb/p6oc9b4z/\nUfMq2lL5yPbDDmqcsMhf+gIXZdpagFQCBFUFPnm4s4szBLCzMa7leDdnOPN0Mtu4\nTk4/+bl9d6LeLE7F89bGrixEnri+VUmyPCIhsbkTeV4Zkqwr/aEONZpCUN1GC9i4\nY3AEeS3X8181gX419Q/YjGRM4BaJaxTtOq/awaTrOCTHAEmsHfO9sl5/aqj36c5W\nmxLzGtHuFrAWMMdLC9akwQnAwT70vbQSG8wO0s7VH5LYR/FcV6p+u9kEKoS/hSyX\nplwwWNH5y/Vb6RyOcrDELIrqAxpbsmmh/qERWmNOK82OPOxGU8MPN2X/RMYhFLjj\nnrsN2QmXAgMBAAECggEASlrLSg9Fvp9nG2NDlvIWwbHRXGCF9Iz8UK5eFUf1ZTuR\n4ikxUX9iXfslntJOkiV6Bxbrvlouy6iFfxrO1ncLdqtFK0Pi15mE5O15lJmL28DJ\nH/rlPYe2b+ck+jg4nNJEHP4qMgunDvKWlYmdDJHKpPo7BufTJoAaVpJQJf5cxR/t\njfW8aQTC+RRyOErv0ERxE6QriYRR0vOlZk7431xz1tjtZCawWpMJ4qWkS1cBbmOt\nV1zZ7NqJz9dOPpo7XPbE9KR2UnuNTUCzWmYC5GZGQ8rfR8pIXzZz3fpuKWuIJylZ\nihNOAwdhfHqQ0OxvQR7OoQumFsHvFZ+hi6sm22JEwQKBgQDwNl6aAFF/q79EkNxZ\n/SOMKMcwiZbfsYFBF1zOnUtLd2TX0zfs0Mp0d2AMTKT97y3/utxXrV6T9ZxZ7FqC\n6PFvbiT5UtlO3QY8gn1Uq6J8tWv6NDZSiHZgXwzUqTGtrS+IjncTIZHzW6zvmt1H\niDWETG1Mz8NRTLfhLiutolnewQKBgQDHg5oN8scqZer/h1dqn7TxC2xKpaijAmKM\nh4+rXkU9A1FYq+QZ/omCQxlkUWUR0xoSG3WDxn1Bwj9V4HC/psftbF2LxCmNkM5t\nmc5h3RF1JYVtVnfU6SfyOwRwJ96kXZL6JDnXpYtn9SuRDQufFQJ9BJKvy3B2ik7V\n/prnUFnWVwKBgAiNFu8Khdwyo/tv4Lg/X62UogqjS0CpU/2aNE6SoOSN2oQoW7xN\nbneY7E1jyRfVFOEeqMtiO5Su0KMO2+X/HuElnaFWhq/dBGTRDF8gQQeJec+NXkWv\n3+7sU0uavk79dEy7LZf7wPNV1yEsdSYfvi/4fIeYec6CGaWlfB6RQfvBAoGAGHeO\nG+nK/OsUv5N0Z/H/+ZOCC0F3hc4UEdHKD6T27r2Ka0phJcLuUBg0c/X7ZA00ZEYT\nyj48PCU7KSfmC8rDN92TN0GuKts4RX6YLa4zpt8cFsWE2ophSLZuG+b3ycZj8OMi\naMy3ZN9PIXGtHCwyaux1pLNZLmBVvK6Fhpp2+e8CgYAG6W3crpqI7kuMldoaiJU/\ntzlmQLXDUdXEblERj4KannVQYwPhLwm+I2TxpRMOqR8UZzzfcqQ7Z1o8/9WfwEE+\njDuI7FZIqy85dkeNKUWA8ZpArask/pwZ55q3ApJnXjchJlm363qZ3mOe3A5n0cnN\nTfRZwccvmIOLtuufrYLhIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projetofugaserviceaccount@projeto-fuga-386622.iam.gserviceaccount.com",
+  "client_id": "105699887400595351684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projetofugaserviceaccount%40projeto-fuga-386622.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
